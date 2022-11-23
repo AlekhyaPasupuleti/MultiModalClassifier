@@ -1,3 +1,19 @@
+#Bonus Work -1 
+This work has the changes made to the repository provided by Professor.
+
+After the cloning of repository, You have to run the training code "myTFDistributedTrainer.py".
+I have attached the output after running the file which is "myDistributedTrainer_output.PNG".
+
+After training the model, you have to do the inference and this is done by "Alekhya_TFinference.ipynb".
+The output can be seen in "myTFInference_execution.png".
+
+I have used fashion dataset and in the inference I have given a tshirt image as input and the provided image gives 92 accuracy.
+
+The next step is exporting all the entire flow into the lite model. The output shows the image given as an input is a tshirt and the output is attached in the repository as "exportfile_input.PNG" and "exportfile_output.PNG"
+
+The resulting plot between loss and accuracy, Validation and training images are attached as "Loss & accuracy.png"
+
+
 # MultiModalClassifier
 This is a project repo for multi-modal deep learning classifier with popular models from Tensorflow and Pytorch. The goal of these baseline models is to provide a template to build on and can be a starting point for any new ideas, applications. If you want to learn basics of ML and DL, please refer this repo: https://github.com/lkk688/DeepDataMiningLearning.
 
