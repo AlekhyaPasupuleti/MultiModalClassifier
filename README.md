@@ -1,4 +1,7 @@
-#Bonus Work -1 
+Name :  Alekhya Pasupuleti
+ID : 016622372
+# Bonus Work -1 
+
 This work has the changes made to the repository provided by Professor.
 
 After the cloning of repository, You have to run the training code "myTFDistributedTrainer.py".
